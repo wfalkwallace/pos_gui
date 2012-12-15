@@ -1,0 +1,12 @@
+RESTAURANT LOG FILE 
+ CREATED 2012-12-15 14:33:15.913
+
+
+
+0: 2012-12-15 14:33:24.829
+Carpaccio classic beef carpaccio with arugula and shaved parmigiano cheese: 7.95
+Insalata Di Barbabietole Con Caprino: 7.5
+La Pugliese: 10.95
+---Total: 26.4
+
+

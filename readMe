@@ -1,0 +1,22 @@
+William Falk-Wallace
+
+This was a programming assignment for an introductory java programming class. it just makes a GUI for a restaurant point-of-sale machine loaded from a menu file, and printed to a logfile (potentially a receipt/order printer in the kitchen). Simple, straightforward GUI program using several design patterns (assignment asked for at least 2, explicitly).
+the runnable JAR can be found at:
+
+https://www.dropbox.com/s/xa7nxwdvvkkjipv/POSGUI.jar
+
+
+
+
+
+
+
+My assignment response readme:
+
+In this assignment, I used the both the observer and iterator patterns. I accomplished this by defining ActionListeners as well as defining orders as aggregations of dishes, and ArrayLists for the creation of buttons and analysis of orders.
+
+I defined menuReader and logWriter classes to interact between the read and write files for the PoS. SessionTester gets the read and write files from the user, and initiates the GUI. at the moment, file locations have to be entered correctly.
+
+the splitpane design and straightforward layout provide ample space for all items (and implements scrollbars as necessary) with sufficently large and well-spaced buttons to maneuver efficiently. the simplicity of the design ensures that its use is understood and carried out properly.
+
+the log is written to the logfile on program close. 
