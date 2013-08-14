@@ -3,7 +3,7 @@ William Falk-Wallace
 This was a programming assignment for an introductory java programming class. it just makes a GUI for a restaurant point-of-sale machine loaded from a menu file, and printed to a logfile (potentially a receipt/order printer in the kitchen). Simple, straightforward GUI program using several design patterns (assignment asked for at least 2, explicitly).
 the runnable JAR can be found at:
 
-https://www.dropbox.com/s/xa7nxwdvvkkjipv/POSGUI.jar
+https://dl.dropboxusercontent.com/u/21831023/_Code/JARs/POSGUI.jar
 
 
 example menu and logfiles are included in directory.
